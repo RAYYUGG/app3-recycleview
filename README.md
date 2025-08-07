@@ -1,6 +1,6 @@
 # Project RecyclerView
 
-Ini adalah proyek sederhana untuk belajar RecyclerView menggunakan Git & Android Studio
+Ini adalah proyek sederhana untuk belajar RecyclerView menggunakan Git & Android Studio.
 
 ## 👥 Tim
 - Naraya Agastya
