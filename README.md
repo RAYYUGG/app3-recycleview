@@ -5,7 +5,7 @@ Ini adalah proyek sederhana untuk belajar kolaborasi menggunakan Git & Android S
 ## 👥 Tim
 - Rama Aditya Faisal: Inisialisasi & Merge PR
 - Naraya Agastya: Fitur UI
-- Raditiya Yuga Pratama: Fitur Logic & Splash
+- Raditiya Yuga Pratama: Fitur Logic
   
 ## 📱 Fitur
 - Menampilkan TextView
