@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.App3recycleview">
         <activity
+            android:name=".tambah"
+            android:exported="false" />
+        <activity
             android:name=".DetailActivity"
             android:exported="false" />
         <activity
@@ -24,4 +27,5 @@
             </intent-filter>
         </activity>
     </application>
+
 </manifest>

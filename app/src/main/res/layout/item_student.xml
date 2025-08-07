@@ -51,6 +51,26 @@
                 android:textColor="#777777"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/removeButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hapus"/>
+
+                <Button
+                    android:id="@+id/editButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Edit"/>
+
+            </LinearLayout>
+
         </LinearLayout>
+
     </LinearLayout>
 </androidx.cardview.widget.CardView>
